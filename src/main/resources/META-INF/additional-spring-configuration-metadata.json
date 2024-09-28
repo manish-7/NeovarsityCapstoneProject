@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "fakestore.api.url",
+      "type": "java.lang.String",
+      "description": "Fake Store API url to connect to get the data for the Product Service"
+    }
+  ]
+}
